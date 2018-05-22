@@ -1,21 +1,21 @@
 {
-  "name": "nodeapp",
+  "name": "notes-app",
   "version": "1.0.0",
-  "description": "Harry's node app",
+  "description": "Harry's node.js notes app",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harry-d/NodeApp.git"
+    "url": "git+https://github.com/harry-d/notes-app.git"
   },
   "author": "Harry Dong",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/harry-d/NodeApp/issues"
+    "url": "https://github.com/harry-d/notes-app/issues"
   },
-  "homepage": "https://github.com/harry-d/NodeApp#readme",
+  "homepage": "https://github.com/harry-d/notes-app#readme",
   "dependencies": {
     "lodash": "^4.17.10",
     "yargs": "^11.0.0"
